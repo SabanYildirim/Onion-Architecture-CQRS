@@ -1,0 +1,17 @@
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Infrastructure\ProductApp.Persistence\bin\Debug\netcoreapp3.1\ProductApp.Persistence.deps.json
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Infrastructure\ProductApp.Persistence\bin\Debug\netcoreapp3.1\ProductApp.Persistence.runtimeconfig.json
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Infrastructure\ProductApp.Persistence\bin\Debug\netcoreapp3.1\ProductApp.Persistence.runtimeconfig.dev.json
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Infrastructure\ProductApp.Persistence\bin\Debug\netcoreapp3.1\ProductApp.Persistence.dll
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Infrastructure\ProductApp.Persistence\bin\Debug\netcoreapp3.1\ProductApp.Persistence.pdb
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Infrastructure\ProductApp.Persistence\bin\Debug\netcoreapp3.1\ProductApp.Application.dll
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Infrastructure\ProductApp.Persistence\bin\Debug\netcoreapp3.1\ProductApp.Domain.dll
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Infrastructure\ProductApp.Persistence\bin\Debug\netcoreapp3.1\ProductApp.Application.pdb
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Infrastructure\ProductApp.Persistence\bin\Debug\netcoreapp3.1\ProductApp.Domain.pdb
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Infrastructure\ProductApp.Persistence\obj\Debug\netcoreapp3.1\ProductApp.Persistence.csprojAssemblyReference.cache
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Infrastructure\ProductApp.Persistence\obj\Debug\netcoreapp3.1\ProductApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Infrastructure\ProductApp.Persistence\obj\Debug\netcoreapp3.1\ProductApp.Persistence.AssemblyInfo.cs
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Infrastructure\ProductApp.Persistence\obj\Debug\netcoreapp3.1\ProductApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Infrastructure\ProductApp.Persistence\obj\Debug\netcoreapp3.1\ProductApp.Persistence.csproj.CopyComplete
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Infrastructure\ProductApp.Persistence\obj\Debug\netcoreapp3.1\ProductApp.Persistence.dll
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Infrastructure\ProductApp.Persistence\obj\Debug\netcoreapp3.1\ProductApp.Persistence.pdb
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Infrastructure\ProductApp.Persistence\obj\Debug\netcoreapp3.1\ProductApp.Persistence.genruntimeconfig.cache

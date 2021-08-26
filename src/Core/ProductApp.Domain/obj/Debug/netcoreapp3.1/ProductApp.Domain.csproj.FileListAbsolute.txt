@@ -1,0 +1,9 @@
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Domain\bin\Debug\netcoreapp3.1\ProductApp.Domain.deps.json
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Domain\bin\Debug\netcoreapp3.1\ProductApp.Domain.dll
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Domain\bin\Debug\netcoreapp3.1\ProductApp.Domain.pdb
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.AssemblyInfoInputs.cache
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.AssemblyInfo.cs
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.dll
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.pdb
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.csprojAssemblyReference.cache

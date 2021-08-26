@@ -1,0 +1,12 @@
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Application\bin\Debug\netcoreapp3.1\ProductApp.Application.deps.json
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Application\bin\Debug\netcoreapp3.1\ProductApp.Application.dll
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Application\bin\Debug\netcoreapp3.1\ProductApp.Application.pdb
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Application\bin\Debug\netcoreapp3.1\ProductApp.Domain.dll
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Application\bin\Debug\netcoreapp3.1\ProductApp.Domain.pdb
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Application\obj\Debug\netcoreapp3.1\ProductApp.Application.csprojAssemblyReference.cache
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Application\obj\Debug\netcoreapp3.1\ProductApp.Application.AssemblyInfoInputs.cache
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Application\obj\Debug\netcoreapp3.1\ProductApp.Application.AssemblyInfo.cs
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Application\obj\Debug\netcoreapp3.1\ProductApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Application\obj\Debug\netcoreapp3.1\ProductApp.Application.csproj.CopyComplete
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Application\obj\Debug\netcoreapp3.1\ProductApp.Application.dll
+C:\Users\sabany\Desktop\NetCoreOnionArchitecture\ProductApp\src\Core\ProductApp.Application\obj\Debug\netcoreapp3.1\ProductApp.Application.pdb
